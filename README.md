@@ -1,7 +1,7 @@
 # Hello-world
 
 New Project ideas
-Ideas: 
+//Ideas: 
  <ul>
   <li>Text based game</li>
   <li>Simple calculator</li>
