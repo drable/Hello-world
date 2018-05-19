@@ -9,6 +9,7 @@ New Project ideas
   <li>Alphbatise paragraphs of text</li>
   <li>Random Name generator</li>
   <li>News spider</li>
+  <li>Character sheet generator</li>
 </ul>
 
 <h2>text based game</h2>
@@ -29,5 +30,7 @@ really simple
 <h2>News spider</h2>
 This could be a good project later on. the Programme would take the top resulting pages from news websites based on a keyword and take the first few paragraphs from a few to create document with them in? I could implement quite a few functions in to this but i could see this being the most challenging project out of those listed so far
 
+<h2>Character sheet</h2>
+This could be a lot of fun to make, depending on how complex i want the project to be this could be a lot of fun and would be a good chance to improve my GUI skill if i want to make it pretty and share it with people
 
 I ate the burrito and it was 5/7 perfect burrito
